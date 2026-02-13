@@ -1,0 +1,18 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local settings
+.env
+*.log
+
+# Streamlit
+.streamlit/
+
+# OS noise
+.DS_Store
+Thumbs.db
