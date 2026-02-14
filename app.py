@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="StreamLite Demo", page_icon="📊")
+st.set_page_config(page_title="Kavindu Dashboard", page_icon="📊")
 
-st.title("StreamLite Demo Dashboard")
-st.caption("Quick interactive walkthrough of basic Streamlit widgets.")
+st.title("Kavindu Dashboard")
+st.caption("Quick interactive walkthrough tailored for the Kavindu showcase.")
 
 with st.sidebar:
     st.header("Controls")
@@ -35,4 +35,4 @@ if show_table:
     st.dataframe(data.head(10))
 
 st.markdown("---")
-st.write("Try tweaking the sliders to see how the visual updates live. That's the core Streamlit experience.")
+st.write("Try tweaking the sliders to see how the visual updates live. That's the core Streamlit experience behind Kavindu.")

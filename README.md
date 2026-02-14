@@ -1,5 +1,5 @@
 ---
-title: Streamlite Demo Project
+title: Kavindu Dashboard Project
 emoji: 🚀
 colorFrom: blue
 colorTo: green
@@ -9,9 +9,9 @@ app_file: app.py
 pinned: false
 ---
 
-# StreamLite Demo
+# Kavindu Dashboard
 
-Quick demonstration of a basic [Streamlit](https://streamlit.io/) app showing common widgets, charts, and metrics.
+Quick demonstration of a basic [Streamlit](https://streamlit.io/) app showing common widgets, charts, and metrics for the Kavindu experience.
 
 ## Setup
 
