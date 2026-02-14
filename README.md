@@ -1,3 +1,14 @@
+---
+title: Streamlite Demo Project
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.28.1
+app_file: app.py
+pinned: false
+---
+
 # StreamLite Demo
 
 Quick demonstration of a basic [Streamlit](https://streamlit.io/) app showing common widgets, charts, and metrics.
